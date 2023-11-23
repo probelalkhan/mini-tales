@@ -1,0 +1,20 @@
+<resources>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="error_email_empty">Email cannot be empty</string>
+    <string name="error_email_invalid">Email Invalid</string>
+    <string name="error_password">Password must be at least 6 characters</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="click_here_to_reset">Click here to reset</string>
+    <string name="agree_to_terms">By logging in or signing up, you agree to our\nTerms and Conditions</string>
+    <string name="dont_have_account">If you don\'t have an account\nClick Here to Sign Up</string>
+    <string name="already_have_account">If you already have an account\nClick Here to Log In</string>
+    <string name="full_name">Full Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="error_name_empty">Name cannot be empty</string>
+    <string name="error_name_invalid">Invalid Name</string>
+    <string name="password_match_error">Password did not match</string>
+    <string name="unknown_error">Unknown error, please try again later!</string>
+    <string name="invalid_email_password">Invalid email or password</string>
+    <string name="service_unavailable">Service unavailable, please try again!</string>
+</resources>

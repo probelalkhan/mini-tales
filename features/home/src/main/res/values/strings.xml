@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="home">Home</string>
+    <string name="fav">Fav</string>
+    <string name="profile">Profile</string>
+    <string name="mini_tales">Mini Tales</string>
+    <string name="your_drafts">Your Drafts</string>
+    <string name="my_drafts">My Drafts</string>
+</resources>

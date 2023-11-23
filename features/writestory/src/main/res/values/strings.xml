@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="draft_saved_successfully">Draft saved successfully</string>
+    <string name="invalid_email_password">Session expired, login again</string>
+    <string name="service_unavailable">Service unavailable, Try again later</string>
+    <string name="unknown_error">Unknown error occurred</string>
+    <string name="mini_tales">Mini Tales</string>
+    <string name="title">Title</string>
+</resources>
