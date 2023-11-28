@@ -5,6 +5,13 @@ multi-modular Android architecture. This app allows users to create personalized
 captivating short stories, all wrapped in a seamless and delightful user interface built using
 Jetpack Compose and 100% Kotlin.
 
+## Watch the tutorial series here
+[![Build Android App from Scratch](/readme/course-thumbnail.png)](https://bit.ly/3uA9JFh)
+
+## [Support the Course](https://www.buymeacoffee.com/probelalkhan)
+
+If you've found value in the Android Development in-depth industry-ready course, consider supporting the effort and dedication poured into its creation. Your contribution on [Buy Me a Coffee](https://www.buymeacoffee.com/probelalkhan) will fuel the creation of more content, enable continuous improvement, and help build a community of motivated learners. It's not just about a cup of coffee; it's about fostering a culture of support and collaboration. Together, we can create something exceptional. Your support is not just appreciated; it's a cornerstone for the future of quality education. Thank you for being a part of this incredible journey!
+
 ## Tech Stack
 
 <table>
@@ -53,4 +60,3 @@ Jetpack Compose and 100% Kotlin.
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 [![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
-
