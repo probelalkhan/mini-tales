@@ -24,7 +24,7 @@ class MiniTalesHttpClientBuilder(private val sessionHandler: SessionHandler) {
 
     private var protocol: URLProtocol = URLProtocol.HTTP
     private lateinit var host: String
-    private var port: Int = 8080
+    private var port: Int? = null
 
     fun protocol(protocol: URLProtocol) = apply { this.protocol = protocol }
 
@@ -48,7 +48,7 @@ class MiniTalesHttpClientBuilder(private val sessionHandler: SessionHandler) {
                 url {
                     this.protocol = this@MiniTalesHttpClientBuilder.protocol
                     this.host = this@MiniTalesHttpClientBuilder.host
-                    port = this@MiniTalesHttpClientBuilder.port
+                    this@MiniTalesHttpClientBuilder.port?.let { port = it }
                 }
                 header(HttpHeaders.ContentType, "application/json")
             }
