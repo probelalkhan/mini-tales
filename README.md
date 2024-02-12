@@ -55,8 +55,12 @@ If you've found value in the Android Development in-depth industry-ready course,
 
 - [@probelalkhan](https://www.github.com/probelalkhan)
 
-## Badges
+## Read More 
+- [Android Interview Questions Blueprint: Your Ultimate Reference](https://www.simplifiedcoding.net/android-interview-questions/)
+- [Kotlin Ktor Android Client – Simplifying Android Networking](https://www.simplifiedcoding.net/kotlin-ktor-android-client/)
+- [Android Proto DataStore Mastery with Kotlin](https://www.simplifiedcoding.net/android-proto-datastore-mastery/)
 
+## Badges
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 [![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)

@@ -46,8 +46,8 @@ class MiniTalesHttpClientBuilder(private val sessionHandler: SessionHandler) {
 
             defaultRequest {
                 url {
-                    this.protocol = this@MiniTalesHttpClientBuilder.protocol
-                    this.host = this@MiniTalesHttpClientBuilder.host
+                    protocol = this@MiniTalesHttpClientBuilder.protocol
+                    host = this@MiniTalesHttpClientBuilder.host
                     this@MiniTalesHttpClientBuilder.port?.let { port = it }
                 }
                 header(HttpHeaders.ContentType, "application/json")
