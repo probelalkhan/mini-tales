@@ -66,14 +66,7 @@ class MiniTalesHttpClientBuilder(private val sessionHandler: SessionHandler) {
             install(Auth) {
                 bearer {
                     loadTokens {
-                        runBlocking {
-                            BearerTokens(sessionHandler.getCurrentUser().first().authKey, "")
-                        }
-                    }
-                    refreshTokens {
-                        runBlocking {
-                            BearerTokens(sessionHandler.getCurrentUser().first().authKey, "")
-                        }
+                        BearerTokens(sessionHandler.getCurrentUser().first().authKey, "")
                     }
                 }
             }

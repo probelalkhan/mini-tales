@@ -28,7 +28,7 @@ android {
         }
 
         debug {
-            buildConfigField("String", "MINI_TALES_HOST", "\"192.168.10.34\"")
+            buildConfigField("String", "MINI_TALES_HOST", "\"192.168.3.9\"")
         }
     }
 
