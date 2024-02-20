@@ -6,9 +6,9 @@ Navigate to the "tutorial-snapshots" folder.
 
 Locate the folder or zip file labeled with the corresponding video number.
 
-Example: If you are watching the first video in the series, look for a folder or zip file named suffixed with "Tutorial_01."
+Example: If you are watching the first video in the series, look for a folder or zip file named prefixed with "#1"
 
-Open the folder or extract the zip file.
+Extract the zip file.
 
 Inside, you'll find the project files reflecting the state demonstrated in the respective tutorial video.
 
